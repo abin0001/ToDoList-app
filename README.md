@@ -14,7 +14,7 @@ This is a simple Todo List app that allows you to add, check, and remove tasks.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/todo-list-app.git
+   git clone https://github.com/abin0001/ToDoList-app.git
    ```
 
 2. **Open the Files:**
